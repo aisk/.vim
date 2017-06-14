@@ -4,3 +4,6 @@
 [submodule "pack/myplugins/start/gruvbox"]
 	path = pack/myplugins/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/myplugins/start/ale"]
+	path = pack/myplugins/start/ale
+	url = https://github.com/w0rp/ale.git
