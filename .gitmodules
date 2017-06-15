@@ -7,3 +7,6 @@
 [submodule "pack/myplugins/start/ale"]
 	path = pack/myplugins/start/ale
 	url = https://github.com/w0rp/ale.git
+[submodule "pack/myplugins/start/vim-javascript"]
+	path = pack/myplugins/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
