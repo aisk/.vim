@@ -10,3 +10,6 @@
 [submodule "pack/myplugins/start/vim-javascript"]
 	path = pack/myplugins/start/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/myplugins/start/vim-togglecursor"]
+	path = pack/myplugins/start/vim-togglecursor
+	url = https://github.com/jszakmeister/vim-togglecursor.git
