@@ -13,3 +13,9 @@
 [submodule "pack/myplugins/start/vim-togglecursor"]
 	path = pack/myplugins/start/vim-togglecursor
 	url = https://github.com/jszakmeister/vim-togglecursor.git
+[submodule "pack/myplugins/start/clang_complete"]
+	path = pack/myplugins/start/clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "pack/myplugins/start/vim-opencl"]
+	path = pack/myplugins/start/vim-opencl
+	url = git://github.com/petRUShka/vim-opencl.git
