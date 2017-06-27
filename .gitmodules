@@ -19,3 +19,6 @@
 [submodule "pack/myplugins/start/vim-opencl"]
 	path = pack/myplugins/start/vim-opencl
 	url = git://github.com/petRUShka/vim-opencl.git
+[submodule "pack/myplugins/start/editorconfig-vim"]
+	path = pack/myplugins/start/editorconfig-vim
+	url = git://github.com/editorconfig/editorconfig-vim.git
