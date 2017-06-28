@@ -25,3 +25,6 @@
 [submodule "pack/myplugins/start/tagbar"]
 	path = pack/myplugins/start/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "pack/myplugins/start/vim-go"]
+	path = pack/myplugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
