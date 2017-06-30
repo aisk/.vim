@@ -28,3 +28,6 @@
 [submodule "pack/myplugins/start/vim-go"]
 	path = pack/myplugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "pack/myplugins/start/vim-coffee-script"]
+	path = pack/myplugins/start/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
