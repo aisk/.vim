@@ -13,6 +13,7 @@ set shiftwidth=4
 set autoindent
 set cindent
 filetype on
+filetype plugin on
 syntax enable
 colorscheme gruvbox
 
