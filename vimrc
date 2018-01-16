@@ -5,6 +5,7 @@ set background=dark
 set termguicolors
 set backspace=indent,eol,start
 set incsearch
+set clipboard=unnamed
 set hlsearch
 set expandtab
 set tabstop=4
