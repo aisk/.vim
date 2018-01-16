@@ -34,3 +34,6 @@
 [submodule "pack/myplugins/start/Dockerfile.vim"]
 	path = pack/myplugins/start/Dockerfile.vim
 	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule "pack/myplugins/start/vim-fugitive"]
+	path = pack/myplugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
