@@ -37,7 +37,7 @@ augroup END
 let g:gruvbox_italic=1
 
 " clang path on osx
-let s:clang_library_path='/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib'
+let s:clang_library_path='/Library/Developer/CommandLineTools/usr/lib'
 if isdirectory(s:clang_library_path)
     let g:clang_library_path=s:clang_library_path
 endif
