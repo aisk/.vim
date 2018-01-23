@@ -37,3 +37,6 @@
 [submodule "pack/myplugins/start/vim-fugitive"]
 	path = pack/myplugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/myplugins/start/jedi-vim"]
+	path = pack/myplugins/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
