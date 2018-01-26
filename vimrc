@@ -12,7 +12,6 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 set autoindent
-set cindent
 " disable ominicomplete preview
 set completeopt-=preview
 
@@ -27,6 +26,7 @@ autocmd FileType go setlocal shiftwidth=4 tabstop=4
 
 filetype on
 filetype plugin on
+filetype plugin indent on
 syntax enable
 colorscheme gruvbox
 
