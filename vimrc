@@ -44,3 +44,5 @@ if isdirectory(s:clang_library_path)
 endif
 
 let g:go_fmt_command = "goimports"
+
+let g:airline#extensions#tabline#enabled = 1
