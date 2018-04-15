@@ -43,3 +43,6 @@
 [submodule "pack/myplugins/start/dart-vim-plugin"]
 	path = pack/myplugins/start/dart-vim-plugin
 	url = https://github.com/dart-lang/dart-vim-plugin.git
+[submodule "pack/myplugins/start/tern_for_vim"]
+	path = pack/myplugins/start/tern_for_vim
+	url = https://github.com/ternjs/tern_for_vim
