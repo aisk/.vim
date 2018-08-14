@@ -46,3 +46,6 @@
 [submodule "pack/myplugins/start/tern_for_vim"]
 	path = pack/myplugins/start/tern_for_vim
 	url = https://github.com/ternjs/tern_for_vim
+[submodule "pack/myplugins/start/typescript-vim"]
+	path = pack/myplugins/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
