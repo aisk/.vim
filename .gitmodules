@@ -49,3 +49,6 @@
 [submodule "pack/myplugins/start/typescript-vim"]
 	path = pack/myplugins/start/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/myplugins/start/thrift.vim"]
+	path = pack/myplugins/start/thrift.vim
+	url = git@github.com:solarnz/thrift.vim.git
