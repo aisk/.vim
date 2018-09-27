@@ -8,10 +8,14 @@ set incsearch
 set clipboard=unnamed
 set hlsearch
 set expandtab
+set smarttab
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 set autoindent
+set wildmenu
+set ignorecase
+set smartcase
 " disable ominicomplete preview
 set completeopt-=preview
 
