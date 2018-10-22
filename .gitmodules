@@ -18,13 +18,13 @@
 	url = https://github.com/Rip-Rip/clang_complete.git
 [submodule "pack/myplugins/start/vim-opencl"]
 	path = pack/myplugins/start/vim-opencl
-	url = git://github.com/petRUShka/vim-opencl.git
+	url = https://github.com/petRUShka/vim-opencl.git
 [submodule "pack/myplugins/start/editorconfig-vim"]
 	path = pack/myplugins/start/editorconfig-vim
-	url = git://github.com/editorconfig/editorconfig-vim.git
+	url = https://github.com/editorconfig/editorconfig-vim.git
 [submodule "pack/myplugins/start/tagbar"]
 	path = pack/myplugins/start/tagbar
-	url = git://github.com/majutsushi/tagbar.git
+	url = https://github.com/majutsushi/tagbar.git
 [submodule "pack/myplugins/start/vim-go"]
 	path = pack/myplugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
@@ -51,7 +51,7 @@
 	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "pack/myplugins/start/thrift.vim"]
 	path = pack/myplugins/start/thrift.vim
-	url = git@github.com:solarnz/thrift.vim.git
+	url = https://github.com/solarnz/thrift.vim.git
 [submodule "pack/myplugins/start/kotlin-vim"]
 	path = pack/myplugins/start/kotlin-vim
 	url = https://github.com/udalov/kotlin-vim.git
