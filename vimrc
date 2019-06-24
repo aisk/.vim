@@ -16,6 +16,7 @@ set autoindent
 set wildmenu
 set ignorecase
 set smartcase
+set autochdir
 " disable ominicomplete preview
 set completeopt-=preview
 
