@@ -55,3 +55,6 @@
 [submodule "pack/myplugins/start/kotlin-vim"]
 	path = pack/myplugins/start/kotlin-vim
 	url = https://github.com/udalov/kotlin-vim.git
+[submodule "pack/myplugins/start/vim-crystal"]
+	path = pack/myplugins/start/vim-crystal
+	url = https://github.com/rhysd/vim-crystal.git
