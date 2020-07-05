@@ -35,6 +35,8 @@ filetype plugin indent on
 syntax enable
 colorscheme gruvbox
 
+hi Normal guibg=NONE ctermbg=NONE
+
 augroup resCur
   autocmd!
   autocmd BufReadPost * call setpos(".", getpos("'\""))
