@@ -18,7 +18,7 @@ set ignorecase
 set smartcase
 set autochdir
 " disable ominicomplete preview
-set completeopt-=preview
+" set completeopt-=preview
 
 " tablength exceptions
 autocmd FileType html setlocal shiftwidth=2 tabstop=2
@@ -57,3 +57,5 @@ endif
 let g:go_fmt_command = "goimports"
 
 let g:airline#extensions#tabline#enabled = 1
+
+let g:ale_completion_enabled = 1
